@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main p#add-prd{
+	width:938px;
+	height:auto;
+	text-align:right;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-bottom:20px;
+	}	
+
+#main p#add-prd a{
+	text-decoration:none;
+	color:;#F0F;
+	}
+
+#main p#add-prd span{
+	background-image:-moz-linear-gradient(center bottom , #C40000 36%, #D64C4A 58%);
+	border-radius:6px 6px 6px 6px;
+	padding:5px 10px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
